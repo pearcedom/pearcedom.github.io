@@ -1,62 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dominic Pearce</title>
+    <title>Dominic Pearce on Dominic Pearce</title>
     <link>https://pearcedom.github.io/</link>
-    <description>Recent content on Dominic Pearce</description>
+    <description>Recent content in Dominic Pearce on Dominic Pearce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pearcedom.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://pearcedom.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://pearcedom.github.io/home/about/</guid>
-      <description>Biography Final year PhD student at the University of Edinburgh&amp;rsquo;s Institute of Genetics and Molecular Medicine, working in the Applied Bioinformatics of Cancer research group.
-Research Manipulation of large molecular datasets in an attempt to characterise patient-derived tumour material and its relationship with response to treatment and prognosis. By better stratifying patients based on their molecular characteristics we hope to achieve a two-fold benefit in i) correctly assigning treatment to patients and ii) avoiding unnecessary overtreatment.</description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>https://pearcedom.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://pearcedom.github.io/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>https://pearcedom.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://pearcedom.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://pearcedom.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://pearcedom.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://pearcedom.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://pearcedom.github.io/home/contact/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Differential expression of store-operated calcium- and proliferation-related genes in hepatocellular carcinoma cells following TRPC1 ion channel silencing</title>
@@ -92,20 +44,6 @@ Research Manipulation of large molecular datasets in an attempt to characterise 
       
       <guid>https://pearcedom.github.io/publication/sampling/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pearcedom.github.io/home/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pearcedom.github.io/home/cv/</guid>
-      <description>PEARCE, Dominic Andrew ADDRESS PF3 5 Edina Place, Edinburgh, UK, EH75RN
-PHONE +44 7477 490890
-E-MAIL dominic.pearce@outlook.com
-PROFILE https://github.com/pearcedom
-SUMMARY Bioinformatics PhD candidate investigating breast cancer treatment prediction. MSc, BSc. Proficient in computational biology, high throughput data analysis, microarray and RNA-seq analysis. Fluent in Python, R, UNIX, Markdown, LaTex and Git. Passable in French.
-EDUCATION  2014-2018 PhD at Institute of Genetics and Molecular Medicine, University of Edinburgh, UK. Supervisor : Dr.</description>
     </item>
     
   </channel>
