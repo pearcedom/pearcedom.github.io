@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dominic Pearce</title>
+    <link>https://pearcedom.github.io/project/</link>
+    <description>Recent content in Projects on Dominic Pearce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 04 Apr 2018 17:31:25 +0100</lastBuildDate>
+    
+	<atom:link href="https://pearcedom.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dormancy</title>
+      <link>https://pearcedom.github.io/project/dormancy/</link>
+      <pubDate>Wed, 04 Apr 2018 17:31:25 +0100</pubDate>
+      
+      <guid>https://pearcedom.github.io/project/dormancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pn</title>
+      <link>https://pearcedom.github.io/project/pn/</link>
+      <pubDate>Wed, 04 Apr 2018 17:30:05 +0100</pubDate>
+      
+      <guid>https://pearcedom.github.io/project/pn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survivALL</title>
+      <link>https://pearcedom.github.io/project/survivall/</link>
+      <pubDate>Wed, 04 Apr 2018 17:28:55 +0100</pubDate>
+      
+      <guid>https://pearcedom.github.io/project/survivall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No-intervening Treatment</title>
+      <link>https://pearcedom.github.io/project/nit/</link>
+      <pubDate>Wed, 04 Apr 2018 17:27:48 +0100</pubDate>
+      
+      <guid>https://pearcedom.github.io/project/nit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
