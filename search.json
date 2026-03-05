@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Final year PhD student at the University of Edinburgh’s Institute of Genetics and Molecular Medicine, working in the Applied Bioinformatics of Cancer research group.\nResearch\nManipulation of large molecular datasets to characterise patient-derived tumour material and its relationship with response to treatment and prognosis. By better stratifying patients based on their molecular characteristics we hope to achieve a two-fold benefit in i) correctly assigning treatment to patients and ii) avoiding unnecessary overtreatment.\nBackground\nFrom 2007-2012 I studied biochemistry (BSc) and molecular cancer biology (MSc), completing research projects investigating the role of JAK-STAT signalling in cancer as well as exploring the potential for low-dose doxorubicin treatment for breast cancer. I have studied in the Institute of Genetics and Molecular Medicine’s Applied Bioinformatics of Cancer group since 2014. Beyond science I’ve had the pleasure of several years experience as a chef in Lyon, France."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dominic Pearce",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
