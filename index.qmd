@@ -1,7 +1,160 @@
 ---
-title: "Dominic Pearce"
+title: Dominic A. Pearce
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  image: img/IMG_2037.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/dominic-pearce-3663a996
+    - icon: github
+      text: Github
+      href: https://github.com/pearcedom
+    - icon: envelope
+      text: Email
+      href: mailto:dominic.pearce@outlook.com
+callout-appearance: simple
+callout-icon: false
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
+Software developer and bioinformatician with 7+ years of industry experience.
+PhD graduate from the University of Edinburgh’s Institute of Genetics and
+Cancer, with a specialty in the applied bioinformatics of cancer. Fluent in R
+and Python. Passable in French.
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+&nbsp;
+
+## About me
+
+### Industry
+
+I worked at a bioinformatic CRO ([Fios Genomics]) for ~7 years (2018-2026)
+performing, reporting and communicating analyses for predominantly US-based
+stakeholders. My work at Fios eventually took on software engineering and
+architecture responsibilities (2020-2026) as I headed Fios' R&D efforts,
+producing, maintaining and verifying their internal codebase. This primarily
+revolved around harnessing R and python to simplify and automate analyses,
+facilitating the analyst pool's ability to work in a cost-efficient and
+error-free manner.
+
+Working at Fios allowed me to analyse or support a broad repertoire of
+projects, allowing development of expertise in bioinformatics, biology,
+statistics, bulk and single-cell RNA seqeuncing, Oxford Nanopore Technologies,
+R, python, git, GitHub/GitLab, Docker, unit testing and continuous integration,
+management and team leadership, client-facing communication, and AWS.
+
+[Fios Genomics]: www.fiosgenomics.com
+
+### Academia
+
+I completed my PhD between 2014-2018 analysing large molecular datasets to
+characterise patient-derived tumour material and its relationship with response
+to treatment and prognosis, in the lab of Dr. Andrew Sims. By better
+stratifying patients based on their molecular characteristics we saught to
+achieve a two-fold benefit in i) correctly assigning treatment to patients and
+ii) avoiding unnecessary overtreatment.
+
+### Life
+
+Beyond science I had the pleasure of several years experience as a chef in
+Lyon, France and now live in Edinburgh with my wife, two children, two rescue
+dogs and our cat. I'm a keen chess player currently playing over-the-board for the
+Pentland Hills Chess Club.
+
+## Details
+
+### Education
+
+2014-2018 PhD at Institute of Genetics and Molecular Medicine, University of
+Edinburgh, UK. Supervisor : Dr. Andrew Sims. Provisional thesis :
+‘Considerations for robust transcriptomic analysis in breast cancer prediction
+and treatment’.
+
+2011-2012 MSc (distinction) in Cancer Cell and Molecular Biology, University of
+Leicester, UK. Research project : ‘MicroRNA induction profiling as a result of
+low-dose doxorubicin treatment in MCF-10A mammary epithelial cells’
+
+2007-2010 BSc 2.1 w/ Hons University of Nottingham. Research project : ‘The
+Role of Nuclear b-Arrestin in the Dephosphorylation of STAT1’
+
+### Publications
+
+#### Pearce, DA, Ajit J. Nirmal, Tom C. Freeman, Andrew H. Sims. Continuous Biomarker Assessment by Exhaustive Survival Analysis. bioRxiv 208660; doi.org/10.1101/208660i
+
+![](img/srv-fig.png)
+
+Publicly available high-throughput molecular data can enable biomarker
+identification and evaluation in a meta-analysis. However, a continuous
+biomarker’s underlying distribution and/or potential confounding factors
+associated with outcome will inevitably vary between cohorts and is often
+ignored. The survivALL R package (https://CRAN.R-project.org/package=survivALL)
+allows researchers to generate visual and numerical comparisons of all possible
+points-of-separation, enabling quantitative biomarkers to be reliably evaluated
+within and across datasets, independent of compositional variation. Here, we
+demonstrate survivALL’s ability to robustly and reproducibly determine an
+applicable level of gene expression for patient prognostic classification, in
+datasets of similar and dissimilar compositions. We believe survivALL
+represents a significant improvement over existing methodologies in stratifying
+patients and determining quantitative biomarker(s) cut points for public and
+novel datasets.  Dominic A. Pearce, Ajit J. Nirmal, Tom C. Freeman, Andrew H.
+rims Bioarxiv,2018
+
+#### Pearce, D. A. et al. Tumour sampling method can significantly influence gene expression profiles derived from neoadjuvant window studies. Sci. Rep. 6, 29434; doi.org/10.1038/srep29434 (2016)
+
+![](img/nit-fig.png)
+
+Patient-matched transcriptomic studies using tumour samples before and after
+treatment allow inter-patient heterogeneity to be controlled, but tend not to
+include an untreated comparison. Here, Illumina BeadArray technology was used
+to measure dynamic changes in gene expression from thirty-seven paired
+diagnostic core and surgically excised breast cancer biopsies obtained from
+women receiving no treatment prior to surgery, to determine the impact of
+sampling method and tumour heterogeneity. Despite a lack of treatment and
+perhaps surprisingly, consistent changes in gene expression were identified
+during the diagnosis-surgery interval (48 up, 2 down; Siggenes FDR 0.05) in a
+manner independent of both subtype and sampling-interval length. Instead,
+tumour sampling method was seen to directly impact gene expression, with
+similar effects additionally identified in six published breast cancer
+datasets. In contrast with previous findings, our data does not support the
+concept of a significant wounding or immune response following biopsy in the
+absence of treatment and instead implicates a hypoxic response following the
+surgical biopsy. Whilst sampling-related gene expression changes are evident in
+treated samples, they are secondary to those associated with response to
+treatment. Nonetheless, sampling method remains a potential confounding factor
+for neoadjuvant study design.  Dominic A. Pearce, Laura M. Arthur, Arran K.
+Turnbull, Lorna Renshaw, Vicky S. Sabine, Jeremy S. Thomas, John M. S.
+Bartlett, J. Michael Dixon, Andrew H. Sims Scientific Reports,2016
+
+#### Other publications
+
+- Selli C, Pearce DA, Sims AH, Tosun M. Differential expression of
+  store-operated calcium- and proliferation-related genes in hepatocellular
+  carcinoma cells following TRPC1 ion channel silencing. Molecular and Cellular
+  Biochemistry, 2018.
+- Turnbull AK, Pearce DA et al. The EA2clin test significantly predicts
+  response and survival in both pre and post-menopausal women with ER-positive
+  breast cancers [abstract]. In: Proceedings of the 2016 San Antonio Breast
+  Cancer Symposium; 2016 Dec 6-10; San Antonio, TX. Philadelphia (PA): AACR;
+  Cancer Res 2017;77(4 Suppl):Abstract nr P6-09-27
+- Selli, C., Pearce, D.A., Sims, A.H. et al. Differential expression of
+  store-operated calcium- and proliferation-related genes in hepatocellular
+  carcinoma cells following TRPC1 ion channel silencing. Mol Cell Biochem 420:
+  129. doi:10.1007/s11010-016-2776-0 (2016)
+
+### Achievements
+
+- Recipient of the British Association of Cancer Research Travel Fellowship. A
+  3-month funded collaboration with Professor Robert Clarke at Georgetown
+  University, Washington DC.
+- Poster Award from BACR ‘Bridging gaps in breast cancer research’ conference,
+  Newcastle/Gateshead, UK.
+- Junior Scientist Travel Grant awarded from The Genetics Society
+- European Association of Cancer Research
+- Demonstrator and organiser with Edinburgh International Science Festival
+  ‘From Code to Cure’
+- Founder of puzzlesANDpie, a coding club within the University of Edinburgh

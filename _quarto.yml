@@ -3,19 +3,18 @@ project:
 
 website:
   title: "Dominic Pearce"
+  favicon: img/icon.png
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+    right:
+      - text: "Contact"
 
 format:
   html:
+    lightbox: true
     theme:
       - cosmo
-      - brand
     css: styles.css
     toc: true
-
-
-
