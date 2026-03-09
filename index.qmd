@@ -52,7 +52,7 @@ statistics, bulk and single-cell RNA seqeuncing, Oxford Nanopore Technologies,
 R, python, git, GitHub/GitLab, Docker, unit testing and continuous integration,
 management and team leadership, client-facing communication, and AWS.
 
-[Fios Genomics]: www.fiosgenomics.com
+[Fios Genomics]: https://www.fiosgenomics.com
 
 ### Academia
 
