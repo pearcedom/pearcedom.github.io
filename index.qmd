@@ -25,6 +25,10 @@ Software developer and bioinformatician with 7+ years of industry experience.
 PhD graduate from the University of Edinburgh’s Institute of Genetics and
 Cancer, with a specialty in the applied bioinformatics of cancer. Fluent in R
 and Python. Passable in French.
+
+&nbsp;
+
+{{< downloadthis cv.pdf label="Download CV" icon=file-earmark-pdf dname="pearce-dominic-cv.pdf" >}}
 :::
 
 &nbsp;
@@ -70,7 +74,7 @@ Pentland Hills Chess Club.
 
 ### Education
 
-2014-2018 PhD at Institute of Genetics and Molecular Medicine, University of
+2014-2018 PhD at Institute of Genetics and Cancer, University of
 Edinburgh, UK. Supervisor : Dr. Andrew Sims. Provisional thesis :
 ‘Considerations for robust transcriptomic analysis in breast cancer prediction
 and treatment’.
