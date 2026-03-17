@@ -46,11 +46,12 @@ codebase. This primarily revolved around harnessing R and python to simplify
 and automate analyses, facilitating the analyst pool's ability to work in a
 cost-efficient and error-free manner.
 
-Working at Fios allowed me to analyse or support a broad repertoire of
-projects, allowing development of expertise in bioinformatics, biology,
-statistics, bulk and single-cell RNA seqeuncing, Oxford Nanopore Technologies,
-R, python, git, GitHub/GitLab, Docker, unit testing and continuous integration,
-management and team leadership, client-facing communication, and AWS.
+Working at Fios allowed me to both support and directly contribute to a broad
+repertoire of projects, allowing development of expertise in bioinformatics,
+biology, statistics, bulk and single-cell RNA sequencing, Oxford Nanopore
+Technologies, R, python, git, GitHub/GitLab, Docker, unit testing and continuous
+integration, management and team leadership, client-facing communication, and
+Amazon Web Services (AWS).
 
 
 ### Academia
@@ -58,9 +59,9 @@ management and team leadership, client-facing communication, and AWS.
 I completed my PhD between 2014-2018 analysing large molecular datasets to
 characterise patient-derived tumour material and its relationship with response
 to treatment and prognosis, in the lab of Dr. Andrew Sims. By better
-stratifying patients based on their molecular characteristics we saught to
+stratifying patients based on their molecular characteristics we sought to
 achieve a two-fold benefit in i) correctly assigning treatment to patients and
-ii) avoiding unnecessary overtreatment.
+ii) avoiding unnecessary over-treatment.
 
 ### Life
 
@@ -87,9 +88,11 @@ Role of Nuclear b-Arrestin in the Dephosphorylation of STAT1’
 
 ### Publications
 
-#### Pearce, DA, Ajit J. Nirmal, Tom C. Freeman, Andrew H. Sims. Continuous Biomarker Assessment by Exhaustive Survival Analysis. bioRxiv 208660; doi.org/10.1101/208660i
+#### [Pearce, DA, Ajit J. Nirmal, Tom C. Freeman, Andrew H. Sims. Continuous Biomarker Assessment by Exhaustive Survival Analysis. bioRxiv](https://www.biorxiv.org/content/10.1101/208660v2)
 
 ![](img/srv-fig.png)
+
+##### Abstract
 
 Publicly available high-throughput molecular data can enable biomarker
 identification and evaluation in a meta-analysis. However, a continuous
@@ -104,12 +107,13 @@ applicable level of gene expression for patient prognostic classification, in
 datasets of similar and dissimilar compositions. We believe survivALL
 represents a significant improvement over existing methodologies in stratifying
 patients and determining quantitative biomarker(s) cut points for public and
-novel datasets.  Dominic A. Pearce, Ajit J. Nirmal, Tom C. Freeman, Andrew H.
-rims Bioarxiv,2018
+novel datasets.
 
-#### Pearce, D. A. et al. Tumour sampling method can significantly influence gene expression profiles derived from neoadjuvant window studies. Sci. Rep. 6, 29434; doi.org/10.1038/srep29434 (2016)
+#### [Pearce, D. A. et al. Tumour sampling method can significantly influence gene expression profiles derived from neoadjuvant window studies. Sci. Rep, 2016.](https://www.biorxiv.org/content/10.1101/208660v2)
 
 ![](img/nit-fig.png)
+
+##### Abstract
 
 Patient-matched transcriptomic studies using tumour samples before and after
 treatment allow inter-patient heterogeneity to be controlled, but tend not to
@@ -129,25 +133,21 @@ absence of treatment and instead implicates a hypoxic response following the
 surgical biopsy. Whilst sampling-related gene expression changes are evident in
 treated samples, they are secondary to those associated with response to
 treatment. Nonetheless, sampling method remains a potential confounding factor
-for neoadjuvant study design.  Dominic A. Pearce, Laura M. Arthur, Arran K.
-Turnbull, Lorna Renshaw, Vicky S. Sabine, Jeremy S. Thomas, John M. S.
-Bartlett, J. Michael Dixon, Andrew H. Sims Scientific Reports,2016
+for neoadjuvant study design.
 
-#### Other publications
+#### Other selected publications
 
-- Selli C, Pearce DA, Sims AH, Tosun M. Differential expression of
+- [Moir, N, Pearce, D. A, Langdon, S. P & Simpson, I. The significance of
+  molecular heterogeneity in breast cancer batch correction and dataset
+  integration. Breast Cancer Research,
+  2025.](https://link.springer.com/article/10.1186/s13058-025-02159-7)
+- [Ross, K. E., Pearce, D. A, McMillan, K. M. What Patterns in Online Classified
+  Puppy Advertisements Can Tell Us about the Current UK Puppy Trade. Animals,
+  2023.](https://www.mdpi.com/2076-2615/13/10/1682)
+- [Selli, C., Pearce, D.A., Sims, A.H. et al. Differential expression of
   store-operated calcium- and proliferation-related genes in hepatocellular
-  carcinoma cells following TRPC1 ion channel silencing. Molecular and Cellular
-  Biochemistry, 2018.
-- Turnbull AK, Pearce DA et al. The EA2clin test significantly predicts
-  response and survival in both pre and post-menopausal women with ER-positive
-  breast cancers [abstract]. In: Proceedings of the 2016 San Antonio Breast
-  Cancer Symposium; 2016 Dec 6-10; San Antonio, TX. Philadelphia (PA): AACR;
-  Cancer Res 2017;77(4 Suppl):Abstract nr P6-09-27
-- Selli, C., Pearce, D.A., Sims, A.H. et al. Differential expression of
-  store-operated calcium- and proliferation-related genes in hepatocellular
-  carcinoma cells following TRPC1 ion channel silencing. Mol Cell Biochem 420:
-  129. doi:10.1007/s11010-016-2776-0 (2016)
+  carcinoma cells following TRPC1 ion channel silencing. Mol Cell Biochem,
+  2016.](https://link.springer.com/article/10.1007/s11010-016-2776-0)
 
 ### Achievements
 
