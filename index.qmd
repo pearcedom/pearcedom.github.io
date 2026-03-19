@@ -37,7 +37,7 @@ and Python. Passable in French.
 
 ### Industry
 
-I worked at a bioinformatic CRO ([Fios Genomics](https://www.fiosgenomics.com))
+I worked at a bioinformatics CRO ([Fios Genomics](https://www.fiosgenomics.com))
 for ~7 years (2018-2026) performing, reporting and communicating analyses for
 predominantly US-based stakeholders. My work at Fios eventually took on
 software engineering and architecture responsibilities (2020-2026) as I headed
