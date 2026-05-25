@@ -14,5 +14,4 @@ format:
     lightbox: true
     theme:
       - cosmo
-    css: styles.css
     toc: true
